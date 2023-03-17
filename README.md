@@ -1,6 +1,6 @@
 # This is the frontend part of the project.
 
-The frontend part of the solution is not deployed yet. so you can run it locally using `npm start` command.
+The frontend part of the solution is not deployed yet.first intall the node modules using `npm install` and then you can run it locally using `npm start` command.
 
 ## The front-end part consists of 
 React.JS, Bootstrap, Material-UI ,Font Awesome Libraries.
